@@ -18,6 +18,7 @@ Learn JavaScript in the best way possible.
 - Git & GitHub
 
 ## 🎓 Learning From
+MDN documentation.
 Special thanks to **Chai aur Code** by Hitesh Choudhary ☕ for the amazing JavaScript course.
 
 > Learning one commit at a time. 🚀
